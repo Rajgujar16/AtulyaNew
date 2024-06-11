@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Maven+Pro:wght@400..900&display=swap');
 @font-face {
     font-family:proxima-nova ;
-    src: url(./Proxima\ Nova\ Font.otf);
+    src: url(./fonts/Proxima\ Nova\ Font.otf);
 }
 *{
     margin: 0;
